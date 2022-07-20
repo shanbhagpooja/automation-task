@@ -1,4 +1,4 @@
-package org.soget.com;
+package org.sogeti.com;
 
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;

@@ -1,4 +1,4 @@
-package org.soget.com;
+package org.sogeti.com;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
